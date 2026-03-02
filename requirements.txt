@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+moviepy
+torch
+numpy
+scipy
+ffmpeg-python
+python-Levenshtein
+pydub
+imageio-ffmpeg
